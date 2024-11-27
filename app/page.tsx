@@ -17,7 +17,7 @@ export default function Page() {
             <br />
             This is a project for the{' '}
             <a href="https://postech.fiap.com.br/curso/front-end-engineering" className="text-blue-500">
-              FIAP's Front-End Engineering Post-graduate Course
+              FIAP&apos;s Front-End Engineering Post-graduate Course
             </a>
             , brought to you by{' '}
             <a href="https://github.com/mauricifj" className="text-blue-500">
@@ -32,7 +32,7 @@ export default function Page() {
           </Link>
           <div className="mt-4">
             <p className="text-sm text-gray-600">
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <Link href="/signup" className="text-blue-500 hover:underline">
                 Sign up
               </Link>
