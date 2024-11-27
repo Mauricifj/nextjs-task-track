@@ -13,7 +13,14 @@ export default function FastTrackLogo() {
         className="m-3 hidden md:block"
         alt="Fast track logo"
       />
-      <p className="text-[44px]">Fast Track</p>
+      <Image
+            src="/logo.png"
+            width={20}
+            height={20}
+            className="m-3 block md:hidden"
+            alt="Screenshots of the task management board showing mobile version"
+          />
+      <p className="text-[34px] md:text-[44px]">Fast Track</p>
     </div>
   );
 }
